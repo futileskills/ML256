@@ -7,4 +7,4 @@ Create The Welcome page for the shop
   * add a better background 
   
   
-  Procceed to tell jeff "fuck you" every day he is in NZ. (https://github.com/omegix) 
+  Procceed to tell jeff "fuck you" every day he is in NZ. (omegix) 
